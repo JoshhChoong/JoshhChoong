@@ -1,7 +1,7 @@
 <h1 align="center">Hey There, I'm Josh! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
-  <img src="./assets/club-penguin-breakdance.gif" alt="Club Penguin Dance" />
+  <img src="./assets/breakdanceSlowDown.gif" alt="Club Penguin Dance" />
 </p>
 
 
