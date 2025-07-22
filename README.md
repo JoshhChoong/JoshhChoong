@@ -6,4 +6,4 @@
 
 
 ## 😊 About Me! 
-I'm a Software Engineering student at the University of Guelph and a full-stack developer with an interest building software applications that combat real world problems. If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joshua-choong-36677a209/)!
+I'm a Co-op Computer Science student at the University of Guelph and a full-stack developer with an interest building software applications that combat real world problems. If you're ever interested in chatting, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/joshua-choong-36677a209/)!
